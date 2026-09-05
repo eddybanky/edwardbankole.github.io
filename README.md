@@ -1,5 +1,5 @@
 # edwardbankole.github.io
-## name
+## Name
 Edward Bankole
 ## MSc Artificial Intelligence E-portfolio
 My E- Portfolio based on assignment and projects carried out on my MSc Artificial Intelligence programme
