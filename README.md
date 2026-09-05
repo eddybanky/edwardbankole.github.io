@@ -1,47 +1,268 @@
 # edwardbankole.github.io
 ## Name
 Edward Bankole
-## MSc Artificial Intelligence E-portfolio
-My E- Portfolio based on assignment and projects carried out on my MSc Artificial Intelligence programme
-## Institution
-University of Essex
-# Module 1 Launch into Computing
-An introduction to the concepts of computing,includung Software Engineering , Artificial intelligence, cybersecurity and data science
+# 🎓 MSc Artificial Intelligence E‑Portfolio  
+### University of Essex  
+This e‑portfolio documents my learning journey as an MSc Artificial Intelligence student at the University of Essex.  
+It contains structured pages for each module, spaces for units, and assignment submission guidance.
 
-<h2>👨‍💻 Software Development Projects:</h2>
+---
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+## 📘 Programme Overview
+The MSc Artificial Intelligence programme develops advanced knowledge in machine learning, intelligent systems, numerical methods, and professional practice.  
+This portfolio is organised to reflect each module and its learning units.
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+# 📂 Portfolio Structure
 
-<h2> 🤳 Connect with me:</h2>
+- Launch into Computing  
+- Understanding Artificial Intelligence  
+- Numerical Analysis  
+- Machine Learning  
+- Intelligent Agents  
+- Methods and Professional Practice  
+- MSc Computing Project (Final Module)  
+- CV & Professional Documents  
+- Research & Publications  
+- Projects & Experiments  
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+# 🧭 **Module Pages (12 Units Each + 1 Assignment Per Unit)**
+
+---
+
+# 1️⃣ Launch into Computing  
+**Credits:** 20  
+**Duration:** 12 weeks  
+
+### 📌 Units (12 Units + 12 Assignments)
+- Unit 1 — Assignment 1  
+- Unit 2 — Assignment 2  
+- Unit 3 — Assignment 3  
+- Unit 4 — Assignment 4  
+- Unit 5 — Assignment 5  
+- Unit 6 — Assignment 6  
+- Unit 7 — Assignment 7  
+- Unit 8 — Assignment 8  
+- Unit 9 — Assignment 9  
+- Unit 10 — Assignment 10  
+- Unit 11 — Assignment 11  
+- Unit 12 — Assignment 12  
+
+### 📝 Assignment Submission  
+Assignments for this module are submitted through:  
+- **University of Essex VLE**  
+- **Turnitin** (similarity check required)  
+- Upload required files (PDF, code, documentation)  
+- Ensure correct file naming convention  
+- Confirm submission receipt on VLE  
+
+---
+
+# 2️⃣ Understanding Artificial Intelligence  
+**Credits:** 20  
+**Duration:** 12 weeks  
+
+### 📌 Units (12 Units + 12 Assignments)
+- Unit 1 — Assignment 1  
+- Unit 2 — Assignment 2  
+- Unit 3 — Assignment 3  
+- Unit 4 — Assignment 4  
+- Unit 5 — Assignment 5  
+- Unit 6 — Assignment 6  
+- Unit 7 — Assignment 7  
+- Unit 8 — Assignment 8  
+- Unit 9 — Assignment 9  
+- Unit 10 — Assignment 10  
+- Unit 11 — Assignment 11  
+- Unit 12 — Assignment 12  
+
+### 📝 Assignment Submission  
+- Submit via **University of Essex VLE**  
+- Turnitin similarity check  
+- Include references using Harvard style  
+- Upload code notebooks if required  
+- Check rubric for marks distribution  
+
+---
+
+# 3️⃣ Numerical Analysis  
+**Credits:** 20  
+**Duration:** 12 weeks  
+
+### 📌 Units (12 Units + 12 Assignments)
+- Unit 1 — Assignment 1  
+- Unit 2 — Assignment 2  
+- Unit 3 — Assignment 3  
+- Unit 4 — Assignment 4  
+- Unit 5 — Assignment 5  
+- Unit 6 — Assignment 6  
+- Unit 7 — Assignment 7  
+- Unit 8 — Assignment 8  
+- Unit 9 — Assignment 9  
+- Unit 10 — Assignment 10  
+- Unit 11 — Assignment 11  
+- Unit 12 — Assignment 12  
+
+### 📝 Assignment Submission  
+- Submit via **University of Essex VLE**  
+- Turnitin similarity check  
+- Include mathematical workings clearly  
+- Provide Python/Matlab code where required  
+- Ensure graphs and plots are labelled  
+
+---
+
+# 4️⃣ Machine Learning  
+**Credits:** 20  
+**Duration:** 12 weeks  
+
+### 📌 Units (12 Units + 12 Assignments)
+- Unit 1 — Assignment 1  
+- Unit 2 — Assignment 2  
+- Unit 3 — Assignment 3  
+- Unit 4 — Assignment 4  
+- Unit 5 — Assignment 5  
+- Unit 6 — Assignment 6  
+- Unit 7 — Assignment 7  
+- Unit 8 — Assignment 8  
+- Unit 9 — Assignment 9  
+- Unit 10 — Assignment 10  
+- Unit 11 — Assignment 11  
+- Unit 12 — Assignment 12  
+
+### 📝 Assignment Submission  
+- Submit via **University of Essex VLE**  
+- Turnitin similarity check  
+- Include Jupyter Notebook or Python scripts  
+- Provide training/validation results  
+- Document model selection and evaluation  
+
+---
+
+# 5️⃣ Intelligent Agents  
+**Credits:** 20  
+**Duration:** 12 weeks  
+
+### 📌 Units (12 Units + 12 Assignments)
+- Unit 1 — Assignment 1  
+- Unit 2 — Assignment 2  
+- Unit 3 — Assignment 3  
+- Unit 4 — Assignment 4  
+- Unit 5 — Assignment 5  
+- Unit 6 — Assignment 6  
+- Unit 7 — Assignment 7  
+- Unit 8 — Assignment 8  
+- Unit 9 — Assignment 9  
+- Unit 10 — Assignment 10  
+- Unit 11 — Assignment 11  
+- Unit 12 — Assignment 12  
+
+### 📝 Assignment Submission  
+- Submit via **University of Essex VLE**  
+- Turnitin similarity check  
+- Provide agent design documentation  
+- Include simulation results  
+- Upload code and environment setup instructions  
+
+---
+
+# 6️⃣ Methods and Professional Practice  
+**Credits:** 20  
+**Duration:** 12 weeks  
+
+### 📌 Units (12 Units + 12 Assignments)
+- Unit 1 — Assignment 1  
+- Unit 2 — Assignment 2  
+- Unit 3 — Assignment 3  
+- Unit 4 — Assignment 4  
+- Unit 5 — Assignment 5  
+- Unit 6 — Assignment 6  
+- Unit 7 — Assignment 7  
+- Unit 8 — Assignment 8  
+- Unit 9 — Assignment 9  
+- Unit 10 — Assignment 10  
+- Unit 11 — Assignment 11  
+- Unit 12 — Assignment 12  
+
+### 📝 Assignment Submission  
+- Submit via **University of Essex VLE**  
+- Turnitin similarity check  
+- Include reflective writing  
+- Provide evidence of professional practice  
+- Upload all supporting documents  
+
+---
+
+# 🏆 Final Module  
+# 7️⃣ MSc Computing Project  
+**Credits:** 60  
+**Duration:** Full term  
+
+### 📌 Project Structure  
+- Proposal  
+- Literature Review  
+- Methodology  
+- Experiments  
+- Results  
+- Discussion  
+- Conclusion  
+- Appendices  
+- Code Repository Link  
+
+### 📝 Assignment Submission  
+- Submit dissertation via **University of Essex VLE**  
+- Turnitin similarity check  
+- Upload final PDF and supplementary files  
+- Follow University of Essex formatting guidelines  
+- Submit GitHub repository link  
+
+---
+
+# 📄 CV & Professional Documents  
+- CV.pdf  
+- Cover Letters  
+- Certificates  
+- Professional Development Records  
+
+---
+
+# 🔬 Research & Publications  
+- Research Notes  
+- Literature Reviews  
+- Draft Papers  
+- Conference Submissions  
+
+---
+
+# 🧪 Projects & Experiments  
+- Machine Learning Models  
+- AI Systems  
+- Data Science Work  
+- Python Scripts  
+- Jupyter Notebooks  
+
+---
+
+# 📬 Contact  
+For collaboration or academic discussion:  
+**Email:** [Your Email Here]  
+**GitHub:** [Your GitHub Link]  
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
