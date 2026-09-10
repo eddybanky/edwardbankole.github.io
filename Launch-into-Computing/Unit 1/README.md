@@ -6,7 +6,12 @@ This unit is part of the MSc Artificial Intelligence programme and contains one 
 ---
 
 ## 📘 Unit Overview
-(Add your summary here)
+(On the completion of this unit, I will be able to:
+Identify and critically analyse computing challenges and processes in business systems.
+Gather and synthesise information from multiple sources to understand computing concepts.
+Articulate the legal, social, ethical, and professional considerations in computing.)
+
+
 
 ---
 ## Case Study for Unit 1
