@@ -20,6 +20,7 @@ AI - Powered Assistants in Business Transformation
 How AI -powered automation transform businesses
 by Edward Bankole - Sunday, 2 August 2026, 9:45 AM
 Number of replies: 0
+
 AI‑powered automation is changing how businesses operate by improving efficiency, reducing manual workload, and supporting faster decision‑making. Many organisations now use AI systems to analyse large volumes of data, streamline routine tasks, and enhance customer service. This shift allows staff to focus more on strategic responsibilities rather than repetitive activities, which strengthens overall productivity (Brynjolfsson & McAfee, 2017).
 
 However, adopting AI in business operations also raises important ethical concerns. One major issue is bias, especially when AI models are trained on data that does not represent all groups fairly. This can lead to unfair outcomes in areas such as recruitment or customer profiling. Another concern is privacy, as AI systems often rely on collecting and processing sensitive information. Without strong governance, businesses risk misuse of data, reduced transparency, and increased surveillance (Floridi & Cowls, 2019).
