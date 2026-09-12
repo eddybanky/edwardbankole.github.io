@@ -36,10 +36,15 @@ In conclusion, Boolean operators remain valuable tools for structuring searches 
 
 References
 Baeza-Yates, R. and Ribeiro-Neto, B. (2011) Modern Information Retrieval: The Concepts and Technology Behind Search. 2nd edn. Harlow: Pearson Education.
+
 EBSCO Information Services (2025) Searching with Boolean operators. Available at: https://connect.ebsco.com/s/article/Searching-with-Boolean-Operators?language=en_US (Accessed: 9 September 2026).
+
 Jurafsky, D. and Martin, J.H. (2024) Speech and Language Processing. 3rd edn. Available at: https://web.stanford.edu/~jurafsky/slp3/ (Accessed: 9 September 2026).
+
 Manning, C.D., Raghavan, P. and Schütze, H. (2008) Introduction to Information Retrieval. Cambridge: Cambridge University Press.
+
 Research Prospect (2023) Boolean operators: A quick guide for researchers. Available at: https://www.researchprospect.com/a-quick-guide-on-boolean-operators/ (Accessed: 9 September 2026).
+
 Russell, S. and Norvig, P. (2021) Artificial Intelligence: A Modern Approach. 4th edn. Harlow: Pearson.
 
 
