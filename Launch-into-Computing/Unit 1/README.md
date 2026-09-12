@@ -1,4 +1,4 @@
-# Unit 01 — Launch-into-Computing
+# Unit 01 — What-is-Computing?
 ### MSc Artificial Intelligence — University of Essex
 
 This unit is part of the MSc Artificial Intelligence programme and contains one assessed assignment submitted via the University of Essex VLE with Turnitin similarity checking.
