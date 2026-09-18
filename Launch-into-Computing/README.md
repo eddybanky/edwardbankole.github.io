@@ -1,6 +1,6 @@
 # Module 1 — Launch into Computing  
 ### MSc Artificial Intelligence — University of Essex Online  
-### Student: Edward  
+
 
 ---
 
