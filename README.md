@@ -6,7 +6,7 @@ Welcome to my e-portfolio.
 
 I am currently studying **MSc Artificial Intelligence**, developing strong skills in machine learning, intelligent systems, numerical modelling, and applied AI development.# My MSc Artificial Intelligence Portfolio
 
-<img src="https://raw.githubusercontent.com/EdwardAI/MSc-Artificial-Intelligence/main/header.png" alt="Portfolio Banner" width="100%">
+<img src="https://image.png/EdwardAI/MSc-Artificial-Intelligence/main/header.png" alt="Portfolio Banner" width="100%">
 
 Welcome to my MSc Artificial Intelligence portfolio. This repository contains my modules, assignments, notes, and project work.
 
