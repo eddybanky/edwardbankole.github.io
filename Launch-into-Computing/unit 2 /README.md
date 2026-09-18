@@ -1,7 +1,7 @@
 # Unit 02 — Logical-Foundations-of-Computing:-Boolean-Algebra,-Gates,-and-Set-Theory
 ### MSc Artificial Intelligence — University of Essex
 
-This unit is part of the MSc Artificial Intelligence programme and contains one assessed assignment submitted via the University of Essex VLE with Turnitin similarity checking.
+This unit is part of the Module 1 Launch into computing and contains one case study submitted via the University of Essex VLE with Turnitin similarity checking.
 
 ---
 
