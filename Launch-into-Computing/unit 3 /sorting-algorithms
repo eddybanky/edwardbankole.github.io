@@ -1,0 +1,41 @@
+# Sorting Algorithms  — Bubble Sort vs Quicksort
+
+## Overview
+This repository contains an MSc Artificial Intelligence coursework submission comparing Bubble Sort and Quicksort. The project includes Python implementations, time complexity analysis, performance graphs, and a written report.
+
+## Contents
+- `notebook.ipynb` — Full Jupyter Notebook  
+- Bubble Sort implementation  
+- Quicksort implementation  
+- Timing experiment  
+- Performance graph  
+- 300‑word academic report  
+
+## Algorithms
+### Bubble Sort
+- Simple comparison-based algorithm  
+- Time complexity: **O(n²)**  
+- Suitable for small datasets  
+
+### Quicksort
+- Divide-and-conquer algorithm  
+- Time complexity: **O(n log n)**  
+- Efficient for large datasets  
+
+## How to Run
+1. Install dependencies:
+2. Open the notebook:
+3. Run all cells.
+
+## 300‑Word Report
+
+In this task, I implemented two sorting algorithms in Python: Bubble Sort and Quicksort. Bubble Sort is a simple algorithm that works by repeatedly comparing neighbouring values and swapping them when they are in the wrong order. It continues this process until the whole list is sorted. Because it uses two nested loops, the time complexity is O(n²). This means the number of operations increases very quickly as the dataset becomes larger. For small lists, Bubble Sort works fine, but it becomes slow and inefficient when the input size grows.
+
+Quicksort uses a different approach. It selects a pivot value, splits the list into smaller sections, and then sorts those sections recursively. This divide‑and‑conquer method gives Quicksort an average time complexity of O(n log n), which is much faster than Bubble Sort. Quicksort handles larger datasets more efficiently and is commonly used in real systems because of its speed and scalability.
+
+When comparing both algorithms, the difference in performance is clear. Bubble Sort is easy to understand and useful for learning basic algorithm behaviour, but it is not suitable for large datasets. Quicksort performs significantly better and is the preferred choice in most real‑world applications. The performance graph supports this: Bubble Sort’s execution time increases sharply as the input size grows, while Quicksort’s time increases slowly and consistently. This highlights the importance of choosing efficient algorithms when working with large datasets or performance‑critical systems.
+
+Overall, Bubble Sort is a good starting point for beginners because it shows how sorting works step by step. However, Quicksort is the practical option for real‑world use due to its efficiency. This comparison highlights why algorithm selection matters, especially when working with larger datasets or systems where performance is important.
+
+## Author
+Edward — MSc Artificial Intelligence  
