@@ -2,6 +2,8 @@
 ### MSc Artificial Intelligence — University of Essex
 This unit is part of the Module 1 Launch into computing and contains one case study submitted via the University of Essex VLE with Turnitin similarity checking.
 
+# Unit link 
+
 ---
 
 ## 📘 Unit Overview
@@ -46,24 +48,25 @@ Research Prospect (2023) Boolean operators: A quick guide for researchers. Avail
 
 Russell, S. and Norvig, P. (2021) Artificial Intelligence: A Modern Approach. 4th edn. Harlow: Pearson.
 
-
-
-### Submission Requirements
-- Submit via University of Essex VLE
-- Complete Turnitin similarity check
-- Upload PDF, code, notebooks, documentation
-- Follow academic integrity and Harvard referencing guidelines
-- Ensure correct file naming conventions
-
- 
-
 ---
 
 ## 📂 Evidence & Artefacts
 (https://github.com/eddybanky/edwardbankole.github.io/tree/main/Launch-into-Computing/unit%202)
 
 
----
+## Logic Circuit Design: Practical Implementation of Boolean Algebra
+
+Task A: (Logic, Gates and SET Theory)
+How is Boolean logic applied in modern computing systems? Provide real-world examples. Research and explain the role of Boolean logic in modern computing, including its applications in search engines, programming, and circuit design.
+
+Identify two real-world applications (e.g., how Google uses Boolean logic in search queries or how CPUs process logic operations).
+Write a 400-word reflective report, ensuring you provide academic references to support your arguments.
+Task B: Logic Circuit Design: Practical Implementation of Boolean Algebra
+Design a logic circuit that performs a basic control function, such as a 3-input majority voting system or a simple alarm system. Use a logic circuit simulator (e.g., Logisim or Digital Works) to implement the circuit. Create a truth table for the logic circuit, showing all possible input-output combinations.
+
+Create a diagram of the circuit, the truth table, and a 200-word explanation describing the circuit’s functionality and how Boolean logic was applied.
+
+## link to Tasks (https://www.my-course.co.uk/mod/forum/discuss.php?d=383820)
 
 ## 📑 Learning Reflection
 (Add your reflection here)
