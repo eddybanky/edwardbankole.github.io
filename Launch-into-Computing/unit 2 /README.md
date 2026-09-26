@@ -2,18 +2,18 @@
 ### MSc Artificial Intelligence — University of Essex
 This unit is part of the Module 1 Launch into computing and contains one case study submitted via the University of Essex VLE with Turnitin similarity checking.
 
-# Unit link 
+
 
 ---
 
-## 📘 Unit Overview
+##📘 Unit Overview
 Identify and critically analyse the role of Boolean logic and set theory in solving computing challenges.
 Gather and synthesise information on logic and mathematical applications in enterprise systems.
 Evaluate tools and techniques (e.g., logic gates, truth tables) to solve computational challenges.
 
 ---
 
-## 📝 Case study for Unit 2
+##📝 Case study for Unit 2
 Case Study: Boolean Logic in Search Engines and Digital Advertising (2022)
 
 Real-World Examples of Boolean Search Operator
@@ -50,11 +50,11 @@ Russell, S. and Norvig, P. (2021) Artificial Intelligence: A Modern Approach. 4t
 
 ---
 
-## 📂 Evidence & Artefacts
+##📂 Evidence & Artefacts
+(https://github.com/eddybanky/edwardbankole.github.io/tree/main/Launch-into-Computing/unit%202)
 (https://github.com/eddybanky/edwardbankole.github.io/tree/main/Launch-into-Computing/unit%202)
 
-
-# Logic Circuit Design: Practical Implementation of Boolean Algebra
+#Logic Circuit Design: Practical Implementation of Boolean Algebra
 
 Task A: (Logic, Gates and SET Theory)
 How is Boolean logic applied in modern computing systems? Provide real-world examples. Research and explain the role of Boolean logic in modern computing, including its applications in search engines, programming, and circuit design.
@@ -66,7 +66,7 @@ Design a logic circuit that performs a basic control function, such as a 3-input
 
 Create a diagram of the circuit, the truth table, and a 200-word explanation describing the circuit’s functionality and how Boolean logic was applied.
 
-# link to Tasks (https://www.my-course.co.uk/mod/forum/discuss.php?d=383820)
+#link to Tasks (https://www.my-course.co.uk/mod/forum/discuss.php?d=383820)
 
 ## 📑 Learning Reflection
 (Add your reflection here)
