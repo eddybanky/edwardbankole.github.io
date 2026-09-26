@@ -12,7 +12,7 @@ Evaluate the efficiency and suitability of algorithms and data structures for sp
 
 ---
 
-## 📝 case study for Unit 03
+##📝 case study for Unit 03
 Algorithm Analysis and Implementation
 
 Task
@@ -24,21 +24,12 @@ The algorithm’s functionality.
 Its efficiency for small vs. large datasets.
 A comparison of the two algorithms and their real-world use cases.
 
-### Submission Requirements
-- Submit via University of Essex VLE
-- Complete Turnitin similarity check
-- Upload PDF, code, notebooks, documentation
-- Follow academic integrity and Harvard referencing guidelines
-- Ensure correct file naming conventions
-
-
-
-## 📂 Evidence & Artefacts
+##Evidence & Artefacts
 (Launch-into-Computing/unit 3/Bubble Sort vs Quicksort_ Implementation, Analysis, and Comparison.ipynb)
 
 ---
 
-## 📑 Learning Reflection
+#📑 Learning Reflection
 (Algorithmic thinking and programming.
 Data-driven performance analysis.
 Critical evaluation of computational methods.)
