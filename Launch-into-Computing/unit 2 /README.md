@@ -52,7 +52,8 @@ Russell, S. and Norvig, P. (2021) Artificial Intelligence: A Modern Approach. 4t
 
 ##📂 Evidence & Artefacts
 (https://github.com/eddybanky/edwardbankole.github.io/tree/main/Launch-into-Computing/unit%202)
-(https://github.com/eddybanky/edwardbankole.github.io/tree/main/Launch-into-Computing/unit%202)
+
+
 
 #Logic Circuit Design: Practical Implementation of Boolean Algebra
 
@@ -67,6 +68,8 @@ Design a logic circuit that performs a basic control function, such as a 3-input
 Create a diagram of the circuit, the truth table, and a 200-word explanation describing the circuit’s functionality and how Boolean logic was applied.
 
 #link to Tasks (https://www.my-course.co.uk/mod/forum/discuss.php?d=383820)
+               (https://github.com/eddybanky/edwardbankole.github.io/tree/main/Launch-into-Computing/unit%202)
+              
 
 ## 📑 Learning Reflection
 (Add your reflection here)
