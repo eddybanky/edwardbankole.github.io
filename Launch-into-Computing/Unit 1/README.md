@@ -3,6 +3,10 @@
 
 This unit is part of the MSc Artificial Intelligence programme and contains one assessed assignment submitted via the University of Essex VLE with Turnitin similarity checking.
 
+
+## 🔗 Related Units / Module Links
+(https://www.my-course.co.uk/course/view.php?id=15221)
+
 ---
 
 ## 📘 Unit Overview
@@ -47,14 +51,6 @@ Russell, S. & Norvig, P. (2021) Artificial Intelligence: A Modern Approach. Pear
 
 ## 📝 Assignment for Unit 01
 
-### Submission Requirements
-- Submit via University of Essex VLE
-- Complete Turnitin similarity check
-- Upload PDF, code, notebooks, documentation
-- Follow academic integrity and Harvard referencing guidelines
-- Ensure correct file naming conventions
-
-### Assignment Structure
 Collaborative Learning Discussion
 - Title:  The Evolution of Computing and its impact on Business and society
 - Task Summary:  Reflect on how computing has transformed industries and societies in recent decades. Choose one major computing discipline (e.g., AI, Cybersecurity, Software Engineering, Data Science, Enterprise IT Management) and explain its impact on a specific industry. Provide one recent example (from the past 3 years) where computing has significantly influenced business or society.
@@ -64,7 +60,7 @@ You should demonstrate that you understand the topic covered and ensure you use 
 Gather and synthesise information from multiple sources (including internet resources and business publications) to aid in the systematic design and analysis of computing challenges.
 
   
-Collaborative Learning Discussion
+## Collaborative Learning Discussion
 
 Artificial Intelligence in Modern Business: Applications, Ethical Concerns, and Computing Discipline Contributions
 
