@@ -60,7 +60,7 @@ Russell, S. and Norvig, P. (2021) Artificial Intelligence: A Modern Approach. 4t
 ---
 
 ## 📂 Evidence & Artefacts
-(Real-World Examples of Boolean Search Operator)
+(https://github.com/eddybanky/edwardbankole.github.io/tree/main/Launch-into-Computing/unit%202)
 
 
 ---
