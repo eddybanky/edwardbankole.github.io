@@ -42,7 +42,7 @@ Russell, S. & Norvig, P. (2021) Artificial Intelligence: A Modern Approach. Pear
 
 
 ## 📂 Evidence & Artefacts
-(How AI -powered automation transform businesses
+(How AI -powered automation transform businesses https://www.my-course.co.uk/mod/forum/discuss.php?d=379659
 )
 
 ## 📝 Assignment for Unit 01
