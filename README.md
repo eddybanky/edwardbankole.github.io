@@ -37,7 +37,7 @@ Foundational computing concepts required for AI: programming principles, algorit
 
 **Key topics:** Fundamentals | Algorithms | Programming Basics | Data Structures | Logic & Control Flow | Functions | Debugging | Software Development | Algorithms in Practice | Databases | Web Technologies | Integration
 
-**[→ Open Module](./1-Launch-into-Computing/README.md)**
+**[→ Open Module](https://github.com/eddybanky/edwardbankole.github.io/tree/main/Launch-into-Computing)**
 
 ---
 
