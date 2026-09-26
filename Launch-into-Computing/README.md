@@ -12,7 +12,7 @@ This module acts as the technical starting point for the rest of the MSc, ensuri
 
 ---
 
-## UnitsTopics Covered
+## Units Topics Covered
 
 - 1. Launch-into-computing (https://github.com/eddybanky/edwardbankole.github.io/tree/main/Launch-into-Computing/Unit%201)
 - 2. Logical-Foundation-Of-Computing: Boolean-Algebra-Gates-and-Set Theory (https://github.com/eddybanky/edwardbankole.github.io/blob/main/Launch-into-Computing/unit%202%20/README.md)
