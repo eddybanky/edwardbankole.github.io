@@ -35,33 +35,7 @@ Floridi, L. & Cowls, J. (2019) ‘A unified framework of five principles for AI 
 
 Russell, S. & Norvig, P. (2021) Artificial Intelligence: A Modern Approach. Pearson.
 
-## case study
-Artificial Intelligence in Modern Business: Applications, Ethical Concerns, and Computing Discipline Contributions
 
-AI is a catalyst for business process transformation in the digital era, enabling organisations to conduct real‑time analysis, understand customer behaviour, and anticipate future needs (Nosova et al., 2022). It is reshaping multiple sectors. Robotics Process Automation supports repetitive administrative tasks, increasing efficiency. In healthcare, predictive AI assists clinicians in identifying health challenges earlier, reducing diagnostic errors. In transportation, AI systems provide real‑time traffic updates and regulate traffic‑light patterns by forecasting peak periods. Verma et al. (2021) note that AI strengthens marketing strategy development, customer segmentation, audience targeting, and product positioning. Tools such as chatbots also enhance personalised online customer experiences, increasing repurchase intention (Nazir et al., 2023).
-
-AI has become central to financial and accounting services, particularly in automating labour‑intensive processes (Ahmed et al., 2022). AI tools detect unusual transaction patterns, support fraud prevention, and maintain secure audit trails (Kommunuri, 2022). Across finance, healthcare, and supply chain management, AI‑driven analytics improve risk assessment, optimise resource allocation, and enhance customer experiences (Rabhi et al., 2025). Rabhi et al. (2025) further argue that AI is evolving from decision‑support tools to systems capable of autonomously executing complex tasks, visible in real‑time fraud detection, AI‑assisted diagnostics, personalised learning systems, and predictive maintenance.
-
-Although AI presents significant opportunities, it raises ethical and operational challenges. These include algorithmic bias, data privacy risks, and fairness in automated decision‑making. Organisations must ensure diverse datasets to promote equitable outcomes (Rabhi et al., 2025). Cybersecurity threats such as hacking and ransomware continue to rise as more data moves online (University of Essex, 2026). AI also raises concerns related to job displacement, unequal access to digital resources, and unclear accountability when autonomous systems fail.
-
-Artificial intelligence provides learning algorithms; cybersecurity protects systems from threats; and software engineering embeds AI models into stable, scalable applications (Russell & Norvig, 2021). Together, these disciplines enable secure, reliable AI‑powered assistants.
-
-References
-Ahmed, S., Alshater, M.M., El Ammari, A. & Hammami, H. (2022) ‘Artificial intelligence and machine learning in finance: A bibliometric review’, Research in International Business and Finance.
-
-Kommunuri, J. (2022) ‘Artificial intelligence and the changing landscape of accounting: a viewpoint’, Pacific Accounting Review.
-
-Nazir, S., Khadim, S., Asadullah, M.A. & Syed, N. (2023) ‘Exploring the influence of artificial intelligence technology on consumer repurchase intention’, Technology in Society.
-
-Nosova, S., Norkina, A., Makar, S., Gerasimenko, T. & Medvedeva, O. (2022) ‘Artificial intelligence as a driver of business process transformation’, Procedia Computer Science.
-
-Rabhi, F., Amin, B. & Asif, G. (2025) Business transformation through AI‑enabled technologies.
-
-Russell, S. & Norvig, P. (2021) Artificial Intelligence: A Modern Approach. Pearson.
-
-University of Essex Online (2026) Introduction to Computing Lecture Cast.
-
-Verma, S., Sharma, R., Deb, S. & Maitra, D. (2021) ‘Artificial intelligence in marketing’, International Journal of Information Management Data Insights.
 
 
 
@@ -69,7 +43,7 @@ Verma, S., Sharma, R., Deb, S. & Maitra, D. (2021) ‘Artificial intelligence in
 
 ## 📂 Evidence & Artefacts
 (How AI -powered automation transform businesses
-https://www.my-course.co.uk/mod/forum/discuss.php?d=391296)
+)
 
 ## 📝 Assignment for Unit 01
 
@@ -122,8 +96,10 @@ Verma, S., Sharma, R., Deb, S. & Maitra, D. (2021) ‘Artificial intelligence in
 
 ---
 
-## 📂 Evidence & Artefacts
-()
+## ## 📂 Evidence & Artefacts
+(The Evolution of Computing and its impact on Business and society
+https://www.my-course.co.uk/mod/forum/discuss.php?d=391296)
+
 
 ---
 
