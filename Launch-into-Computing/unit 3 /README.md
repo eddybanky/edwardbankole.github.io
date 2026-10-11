@@ -32,7 +32,8 @@ A comparison of the two algorithms and their real-world use cases.
 #Evidence 
 https://github.com/eddybanky/edwardbankole.github.io/blob/main/Launch-into-Computing/unit%203/Bubble%20Sort%20vs%20Quicksort_%20Implementation%2C%20Analysis%2C%20and%20Comparison-checkpoint.ipynb
 
-# https://github.com/eddybanky/edwardbankole.github.io/commit/76ea2c743314e3ed7a27d0fc259dcf897c7b61f1
+#300 words (https://github.com/eddybanky/edwardbankole.github.io/commit/76ea2c743314e3ed7a27d0fc259dcf897c7b61f1)
+
 ---
 
 #📑 Learning Reflection
