@@ -24,8 +24,7 @@ The algorithm’s functionality.
 Its efficiency for small vs. large datasets.
 A comparison of the two algorithms and their real-world use cases.
 
-##Evidence & Artefacts
-(Launch-into-Computing/unit 3/Bubble Sort vs Quicksort_ Implementation, Analysis, and Comparison.ipynb)
+#Evidence 
 https://github.com/eddybanky/edwardbankole.github.io/blob/main/Launch-into-Computing/unit%203/Bubble%20Sort%20vs%20Quicksort_%20Implementation%2C%20Analysis%2C%20and%20Comparison-checkpoint.ipynb
 
 ---
@@ -37,4 +36,4 @@ Critical evaluation of computational methods.)
 
 ---
 
-## 🔗 Related Units / Module Links
+
