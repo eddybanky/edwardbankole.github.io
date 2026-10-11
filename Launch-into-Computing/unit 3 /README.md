@@ -5,7 +5,7 @@ This unit is part of the Module 1 Launch into computing and contains one case st
 
 ---
 
-## 📘 Unit Overview
+#📘 Unit Overview
 (Identify and analyse key principles of algorithms and data structures.
 Gather and synthesise information to apply computational principles to business challenges.
 Evaluate the efficiency and suitability of algorithms and data structures for specific computing problems.)
@@ -24,13 +24,15 @@ Create your code, a graph showing performance (time complexity) for different in
 and a 300-word report discussing:
 
 The algorithm’s functionality.
+
 Its efficiency for small vs. large datasets.
+
 A comparison of the two algorithms and their real-world use cases.
 
 #Evidence 
 https://github.com/eddybanky/edwardbankole.github.io/blob/main/Launch-into-Computing/unit%203/Bubble%20Sort%20vs%20Quicksort_%20Implementation%2C%20Analysis%2C%20and%20Comparison-checkpoint.ipynb
 
-https://github.com/eddybanky/edwardbankole.github.io/commit/76ea2c743314e3ed7a27d0fc259dcf897c7b61f1
+# https://github.com/eddybanky/edwardbankole.github.io/commit/76ea2c743314e3ed7a27d0fc259dcf897c7b61f1
 ---
 
 #📑 Learning Reflection
