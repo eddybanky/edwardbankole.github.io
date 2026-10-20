@@ -1,4 +1,4 @@
-# unit 04 — Launch- into-computing
+# unit 04 — Software-Engineering
 ### MSc Artificial Intelligence — University of Essex
 
 This unit is part of the MSc Artificial Intelligence programme and contains one assessed assignment submitted via the University of Essex VLE with Turnitin similarity checking.
