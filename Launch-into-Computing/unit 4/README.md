@@ -19,25 +19,11 @@ Flexibility and adaptability to changing requirements.
 Suitability for small vs. large projects.
 Risk management and quality assurance.
 Write a 500-word analysis identifying the strengths and limitations of each methodology and recommend which approach would work best for specific project scenarios.
-# Assignment solution link (
-### Submission Requirements
-- Submit via University of Essex VLE
-- Complete Turnitin similarity check
-- Upload PDF, code, notebooks, documentation
-- Follow academic integrity and Harvard referencing guidelines
-- Ensure correct file naming conventions
 
-### Assignment Structure
-- Title:  
-- Task Summary:  
-- Deliverables:  
-- Tools/Software Used:  
-- Key Concepts Applied:  
+# Assignment solution link (https://github.com/eddybanky/edwardbankole.github.io/blob/main/Launch-into-Computing/unit%204/Comparative%20Analysis%20between%20Agile%20and%20Waterfall%20software%20methologies.docx)
+
 
 ---
-
-## 📂 Evidence & Artefacts
-(Add your files here)
 
 ---
 
