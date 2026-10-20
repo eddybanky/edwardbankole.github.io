@@ -23,7 +23,7 @@ The results and model performance metrics.
 Ethical considerations for the dataset and AI model use case (e.g., potential biases).
 
 
-# Assignment submition
+# Assignment submission
 
 
 
