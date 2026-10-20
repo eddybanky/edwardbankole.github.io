@@ -27,9 +27,4 @@ Assignment solution link (https://github.com/eddybanky/edwardbankole.github.io/b
 
 ---
 
-## 📑 Learning Reflection
-(Add your reflection here)
 
----
-
-## 🔗 Related Units / Module Links
